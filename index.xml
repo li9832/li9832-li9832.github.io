@@ -3,9 +3,17 @@
         <title>YSF&#39;s blog</title>
         <link>https://li9832.github.io/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh_CN</language><lastBuildDate>Wed, 11 Jan 2023 05:11:41 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh_CN</language><lastBuildDate>Fri, 13 Jan 2023 06:47:39 &#43;0800</lastBuildDate>
             <atom:link href="https://li9832.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>LoveIt自定义主题备忘</title>
+    <link>https://li9832.github.io/posts/loveit%E4%BF%AE%E6%94%B9%E9%A1%B5%E9%9D%A2%E6%9C%80%E5%A4%A7%E5%AE%BD%E5%BA%A6/</link>
+    <pubDate>Fri, 13 Jan 2023 06:47:39 &#43;0800</pubDate>
+    <author>Me</author>
+    <guid>https://li9832.github.io/posts/loveit%E4%BF%AE%E6%94%B9%E9%A1%B5%E9%9D%A2%E6%9C%80%E5%A4%A7%E5%AE%BD%E5%BA%A6/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>PPPOE拨号 ENSP实验</title>
     <link>https://li9832.github.io/posts/pppoe%E6%8B%A8%E5%8F%B7-ensp%E5%AE%9E%E9%AA%8C/</link>
     <pubDate>Wed, 11 Jan 2023 05:11:41 &#43;0800</pubDate>
