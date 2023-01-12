@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - YSF&#39;s blog</title>
+        <link>https://li9832.github.io/tags/</link>
+        <description>Tags - Tag - YSF&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh_CN</language><lastBuildDate>Wed, 11 Jan 2023 05:11:41 &#43;0800</lastBuildDate><atom:link href="https://li9832.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>PPPOE</title>
+    <link>https://li9832.github.io/tags/pppoe/</link>
+    <pubDate>Wed, 11 Jan 2023 05:11:41 &#43;0800</pubDate>
+    <author>Me</author>
+    <guid>https://li9832.github.io/tags/pppoe/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
